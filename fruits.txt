@@ -1,3 +1,5 @@
 apple
 bananna
 guava
+apricots
+peach
